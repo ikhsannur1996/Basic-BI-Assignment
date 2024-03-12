@@ -1,4 +1,4 @@
-# Basic BI - Data Warehouse Design Assignment Answer
+# Basic BI - Data Warehouse Design Assignment
 
 ## Objective
 The objective of this assignment is to design a data warehouse (DWH) schema for the Sales dataset. The task involves creating an Entity-Relationship Diagram (ERD) that accurately represents the schema of the chosen dataset.
