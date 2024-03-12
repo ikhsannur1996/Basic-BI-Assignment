@@ -51,7 +51,8 @@ Company XYZ, a retail corporation, aims to analyze its sales data to gain insigh
 
 ### Schema Description (Star Schema)
 
-![Sales](https://github.com/ikhsannur1996/Basic-BI-Assignment/assets/32507742/caf271d5-46a8-45ae-a735-0c247b9330a7)
+![309187339-caf271d5-46a8-45ae-a735-0c247b9330a7](https://github.com/ikhsannur1996/Basic-BI-Assignment/assets/32507742/3ec46baa-29d9-40b7-ad3d-254bf1091085)
+
 
 In a star schema design, the fact table (e.g., `fact_sales`) sits at the center, surrounded by dimension tables (e.g., `dim_product`, `dim_store`). This design simplifies queries and enhances performance by denormalizing data.
 
