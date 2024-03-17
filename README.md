@@ -1,7 +1,7 @@
-# Basic BI - Data Warehouse Design Assignment
+# Basic Business Intelligence - Data Warehouse Design Assignment
 
 ## Objective
-The objective of this assignment is to design a data warehouse (DWH) schema for the Sales dataset. The task involves creating an Entity-Relationship Diagram (ERD) that accurately represents the schema of the chosen dataset.
+The objective of this assignment is to design a data warehouse (DWH) schema for the Sales dataset. The task involves analyzing an Entity-Relationship Diagram (ERD) that accurately represents the schema of the chosen dataset.
 
 ## Sales Data Warehouse Design Case Study
 
@@ -16,19 +16,18 @@ Company XYZ, a retail corporation, aims to analyze its sales data to gain insigh
 ![ERD](https://github.com/ikhsannur1996/Basic-BI-Assignment/assets/32507742/3ec46baa-29d9-40b7-ad3d-254bf1091085)
 
 ## Requirements
-- Provide an ERD link to drawsql.
 - Make a business case study of implementation
 - Description of Table and Data Type Description
 - Description of the star schema
+- Data Extraction Strategy, Data Transformation Approach, and Data Loading Techniques.
 - Strategy for Implementing the Data Warehouse Design
 - List Stakeholders and Role in Implementing the Data warehouse
 - Conclusion
 
 ### Deliverables
-- Provide an ERD link to drawsql.
 - Slide presentation.
 
 ## Evaluation Criteria
 Your assignment will be evaluated based on the following criteria:
-1. Correct ERD
-2. Slide Presentation
+1. Completeness of Components: Ensure all required components, including business case study, schema description, implementation strategy, stakeholder analysis, and conclusion, are adequately addressed.
+2. Slide Presentation: Evaluate the clarity, organization, and visual appeal of the slide presentation, ensuring it effectively communicates key concepts and findings.
