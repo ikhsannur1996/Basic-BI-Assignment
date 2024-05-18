@@ -19,7 +19,6 @@ Company XYZ, a retail corporation, aims to analyze its sales data to gain insigh
 - Make a business case study of implementation
 - Description of Table and Data Type Description
 - Description of the star schema
-- Data Extraction Strategy, Data Transformation Approach, and Data Loading Techniques.
 - Strategy for Implementing the Data Warehouse Design
 - List Stakeholders and Role in Implementing the Data warehouse
 - Conclusion
